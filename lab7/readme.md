@@ -1,1 +1,2 @@
-php
+QN01;
+in http://localhost/phpmyadmin create the database frst..then there create table.after that in vscode write the code that should be saved inside htdocs of xampp ..ther you may create new folder and inside that you can give name and save the code ..after that in broweser you have to search http://localhost/which folder name you created/then the name that you saved ...
